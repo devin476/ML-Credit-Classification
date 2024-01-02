@@ -1,6 +1,5 @@
-# Module 12 Report Template
+# Credit Risk Analysis
 
-## Overview of the Analysis
 
 ## Purpose of the Analysis
 
