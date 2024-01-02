@@ -12,12 +12,10 @@ The analysis was conducted on a dataset comprising various financial attributes 
 
 - Loan Amount
 - Term of Loan
-- Credit Score
 - Annual Income
 - Debt to Income Ratio
 - Past Default History
 
-The target variable for prediction was the loan status, categorized as 'Healthy' (low-risk) or 'High-Risk'.
 
 ## Methods and Models Used
 
